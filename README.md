@@ -1,2 +1,2 @@
-# docker-esp-build-env
-docker image for esp build environment
+# docker-esp-matter
+docker image for esp matter build environment
