@@ -1,7 +1,7 @@
 FROM quay.io/raywen/esp-idf:v5.3.1
 MAINTAINER Raymond Wen
 
-ENV MATTER_VERSION v1.3
+ENV MATTER_VERSION v1.4
 
 ENV ESP_ROOT_DIR /opt/
 WORKDIR ${ESP_ROOT_DIR}
